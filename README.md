@@ -1,16 +1,38 @@
 ![gif](./images/header__image.gif)
 
-# 🤗 I'm Danya, 20 y.o. web-developer
-
-> ### 🌍 Native city: Moscow, Russia
-
-> ### 🌍 Actual location: Barcelona, Spain
-
-## 🧐 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
-
-## 🌍 Location: Barcelona
+<h1 display='block'>👀 I'm Danya, 20 y.o. web-developer</h1>
 
 
+- Native city: Moscow, Russia
+
+- Actual location: Barcelona, Spain
+
+## 🤓 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
+
+- studied for 9 months
+
+- 1.5 month left
+
+## 📚 Languages and Tools 
+
+![JS](https://img.shields.io/badge/-JavaScript-4169E1?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+
+## 👨‍🎓 Now learning 
+- Backend basics
+- React authentication
+- Server-side development on node.js
+- Database
+
+## 🎭 Hobbies 
+- music
+- cinema
+- reading books
 
 
 <!--
