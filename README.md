@@ -1,4 +1,4 @@
-![gif](./images/header__image.gif)
+![gif](./images/header.gif)
 
 <h1 display='block'>👀 I'm Danya, 20 y.o. web-developer</h1>
 
