@@ -30,9 +30,17 @@
 - Database
 
 ## 🎭 Hobbies 
-- music
-- cinema
-- reading books
+- SPORT
+> Top 3: Lala, lala, lala
+- MUSIC
+> Top 3: Lolo, Lolo, Lolo
+- CINEMA
+> Top 3: lala, lala, lala
+
+## 🌐 Social media
+- [Linkedin](https://www.linkedin.com/in/danya-kovan-7b4575252/)
+- [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
+
 
 
 <!--
