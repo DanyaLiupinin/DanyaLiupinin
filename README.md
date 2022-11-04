@@ -1,5 +1,8 @@
 ![Header](./images/header.gif)
 
+# 🤗 I'm Danya
+
+## 🧐 20 y.o web-developer 
 
 
 
