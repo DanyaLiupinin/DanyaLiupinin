@@ -1,4 +1,4 @@
-![Header](./images/header.gif)
+![gif](./images/header.gif)
 
 # 🤗 I'm Danya, 20 y.o. web-developer
 
