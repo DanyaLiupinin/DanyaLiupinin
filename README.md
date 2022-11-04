@@ -1,8 +1,8 @@
 ![Header](./images/header.gif)
 
-# 🤗 I'm Danya
+# 🤗 I'm Danya, 20 y.o web-developer 
 
-## 🧐 20 y.o web-developer 
+## 🧐 Now I'm studying in Yandex Practicum
 
 
 
