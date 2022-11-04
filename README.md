@@ -1,8 +1,14 @@
 ![Header](./images/header.gif)
 
-# 🤗 I'm Danya, 20 y.o web-developer 
+# 🤗 I'm Danya, 20 y.o. web-developer
 
-## 🧐 Now I'm studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
+> ### 🌍 Native city: Moscow, Russia
+
+> ### 🌍 Actual location: Barcelona, Spain
+
+## 🧐 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
+
+## 🌍 Location: Barcelona
 
 
 
