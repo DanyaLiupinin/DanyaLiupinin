@@ -2,7 +2,7 @@
 
 # 🤗 I'm Danya, 20 y.o web-developer 
 
-## 🧐 Now I'm studying in Yandex Practicum
+## 🧐 Now I'm studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
 
 
 
