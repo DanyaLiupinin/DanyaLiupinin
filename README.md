@@ -15,27 +15,25 @@
 
 ## 📚 Languages and Tools 
 
-![JS](https://img.shields.io/badge/-JavaScript-4169E1?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
-![CSS](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
-![CSS](https://img.shields.io/badge/-React-DC143C?style=for-the-badge&logo=react)
+![JS](https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-4682B4?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-6495ED?style=for-the-badge&logo=postcss)
+![Nodejs](https://img.shields.io/badge/-Node.js-7B68EE?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-00CED1?style=for-the-badge&logo=Webpack)
+![Figma](https://img.shields.io/badge/-Figma-B0E0E6?style=for-the-badge&logo=figma)
+
 
 ## 👨‍🎓 Now learning 
-- Backend basics
-- React authentication
+### Backend basics:
 - Server-side development on node.js
-- Database
+- Express.js
+- MongoDB
 
 ## 🎭 Hobbies 
-- SPORT
-> Top 3: Lala, lala, lala
-- MUSIC
-> Top 3: Lolo, Lolo, Lolo
-- CINEMA
-> Top 3: lala, lala, lala
+- music
+- sports
+- books
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danya-kovan-7b4575252/)
