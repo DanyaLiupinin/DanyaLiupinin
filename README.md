@@ -18,10 +18,12 @@
 ![JS](https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-4682B4?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-6495ED?style=for-the-badge&logo=postcss)
+![CSS](https://img.shields.io/badge/-CSS-6495ED?style=for-the-badge&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Node.js-7B68EE?style=for-the-badge&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-00CED1?style=for-the-badge&logo=Webpack)
-![Figma](https://img.shields.io/badge/-Figma-B0E0E6?style=for-the-badge&logo=figma)
+![typescript](https://img.shields.io/badge/-Typescript-20B2AA?style=for-the-badge&logo=typescript)
+![express](https://img.shields.io/badge/-Esxpress.js-008080?style=for-the-badge&logo=express.js)
+![Figma](https://img.shields.io/badge/-Figma-66CDAA?style=for-the-badge&logo=figma)
 
 
 ## 👨‍🎓 Now learning 
