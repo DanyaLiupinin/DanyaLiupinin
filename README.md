@@ -41,6 +41,12 @@
 - [Linkedin](https://www.linkedin.com/in/danya-kovan-7b4575252/)
 - [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
 
+## 💬 Contact me
+
+email: mr.kovan_2002@mail.ru
+
+telegram: r_b_n_m
+
 
 
 <!--
