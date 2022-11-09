@@ -32,11 +32,6 @@
 - Express.js
 - MongoDB
 
-## 🎭 Hobbies 
-- music
-- sports
-- books
-
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danya-kovan-7b4575252/)
 - [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
