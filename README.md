@@ -33,7 +33,7 @@
 - MongoDB
 
 ## 🌐 Social media
-- [Linkedin](https://www.linkedin.com/in/danya-kovan-7b4575252/)
+- [Linkedin](https://www.linkedin.com/in/danyakovan/)
 - [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
 
 ## 💬 Contact me
