@@ -9,9 +9,9 @@
 
 ## 🤓 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
 
-- studied for 9 months
+- studied for 10 months
 
-- 1.5 month left
+- 5,5 weeks left
 
 ## 📚 Languages and Tools 
 
@@ -23,18 +23,22 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-00CED1?style=for-the-badge&logo=Webpack)
 ![typescript](https://img.shields.io/badge/-Typescript-20B2AA?style=for-the-badge&logo=typescript)
 ![express](https://img.shields.io/badge/-Esxpress.js-008080?style=for-the-badge&logo=express.js)
+![Mongodb](https://img.shields.io/badge/-mongo-66CDAA?style=for-the-badge&logo=mongodb)
 ![Figma](https://img.shields.io/badge/-Figma-66CDAA?style=for-the-badge&logo=figma)
 
 
 ## 👨‍🎓 Now learning 
-### Backend basics:
-- Server-side development on node.js
-- Express.js
-- MongoDB
+### Creating a final educational project
+### Also learning:
+- css preprocessors
+- typescript
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
 - [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
+
+## 🧠 Resume
+https://drive.google.com/drive/folders/1oCAvTmXfJF_WyNwltqDZgVIXHak9vt-f?usp=sharing
 
 ## 💬 Contact me
 
