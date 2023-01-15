@@ -46,9 +46,32 @@ email: mr.kovan_2002@mail.ru
 
 telegram: r_b_n_m
 
-## Portfolio navigation
+## Portfolio navigation (in progress / раздел дополняется)
 
-(in progress)
+[Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full)
+---------------------------------------------------------------
+
+The project 'Mesto' is a kind of profile in a social network, the main function of which is to share photos.
+
+> Frontend: HTML, CSS, JavaScript, React, Rest Api, Webpack, Async requests, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
+
+> Backend: Node.js, Express, MongoDB
+
+
+
+
+(DIPLOMA) Movies explorer [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
+---------------------------------------------------------------
+
+"Movies explorer" is a movie library that allows you to find different movies and save them to your favorites. 
+
+> Frontend: HTML5, CSS3, React, Bem, JSX, Media Queries, Flexbox, Grid, addaptive layout, transitions, animations, CRP, React Router, Hooks, Protected routes.
+
+> Backend: Node.js, Express, MongoDB
+
+
+In progress / раздел дополняется 
+
 
 
 <!--
