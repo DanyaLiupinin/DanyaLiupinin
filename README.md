@@ -11,7 +11,7 @@
 
 - studied for 10 months
 
-- 3 weeks left
+- 2 weeks left
 
 ## 📚 Languages and Tools 
 
