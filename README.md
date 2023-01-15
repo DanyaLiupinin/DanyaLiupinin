@@ -9,7 +9,7 @@
 
 ## 🤓 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
 
-- studied for 10 months
+- studied for 11.5 months
 
 - 2 weeks left
 
@@ -46,6 +46,9 @@ email: mr.kovan_2002@mail.ru
 
 telegram: r_b_n_m
 
+## Portfolio navigation
+
+(in progress)
 
 
 <!--
