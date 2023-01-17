@@ -46,7 +46,11 @@ email: mr.kovan_2002@mail.ru
 
 telegram: r_b_n_m
 
-## Portfolio navigation (in progress / раздел дополняется)
+
+
+## 👣 Portfolio navigation (in progress / раздел дополняется)
+
+
 
 [Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full)
 ---------------------------------------------------------------
@@ -60,7 +64,7 @@ The project 'Mesto' is a kind of profile in a social network, the main function 
 
 
 
-(DIPLOMA) Movies explorer [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
+[Movies](https://github.com/DanyaLiupinin/movies-explorer-frontend) [explorer](https://github.com/DanyaLiupinin/movies-explorer-api) (Yandex Diploma) [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
 ---------------------------------------------------------------
 
 "Movies explorer" is a movie library that allows you to find different movies and save them to your favorites. 
@@ -70,7 +74,31 @@ The project 'Mesto' is a kind of profile in a social network, the main function 
 > Backend: Node.js, Express, MongoDB
 
 
-In progress / раздел дополняется 
+
+
+[Hackathon](https://github.com/DanyaLiupinin/yandex-hackathon-justdoit)
+------------------------------------
+
+A desktop version of the landing page to attract reviewers and mentors to Yandex team. The project was created by a team of 6 people.
+
+> Frontend: HTML, SCSS, Bulma, JS, Flex, Animtaions, transitions, Webpack
+
+
+
+[Russian travel](https://github.com/DanyaLiupinin/russian-travel)
+------------------------------
+
+"Russian travel" is a landing dedicated to traveling in Russia. It introduces people to the most picturesque corners of the country, where everyone can go if desired.
+
+> Frontend: HTML, CSS, Adaptive layout, media queries, Bem methodology, flex, Grid layout, Cross-browser layout
+
+
+[How to learn](https://github.com/DanyaLiupinin/how-to-learn)
+-----------------------------
+
+"How to learn" is a landing dedicated to teaching methods and techniques for quickly memorizing new information.
+
+> Frontend: HTML, CSS, Adaptive layout, Bem methodology (nested), Flex, Grid layout, cross-browser layout, animations
 
 
 
