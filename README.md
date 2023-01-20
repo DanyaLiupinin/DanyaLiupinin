@@ -37,9 +37,6 @@
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
 - [CodeWars](https://www.codewars.com/users/DanyaLiupinin)
 
-## 🧠 Resume
-https://drive.google.com/drive/folders/1AP71G_ESdxo4NRML5MtvK3zOQNltPBLM?usp=share_link
-
 ## 💬 Contact me
 
 email: mr.kovan_2002@mail.ru
