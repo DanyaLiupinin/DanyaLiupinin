@@ -98,6 +98,13 @@ A desktop version of the landing page to attract reviewers and mentors to Yandex
 > Frontend: HTML, CSS, Adaptive layout, Bem methodology (nested), Flex, Grid layout, cross-browser layout, animations
 
 
+[Portfilio layout](https://github.com/DanyaLiupinin/portfolio-layout)
+----------------------
+
+Simple landing portfolio for a designer with a presentation of professional skills.
+
+> Frontend: HTML, CSS, BEM
+
 
 <!--
 **DanyaLiupinin/DanyaLiupinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
