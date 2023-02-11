@@ -49,24 +49,24 @@ telegram: r_b_n_m
 
 
 
-[Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full)
+[Movies](https://github.com/DanyaLiupinin/movies-explorer-frontend) [explorer](https://github.com/DanyaLiupinin/movies-explorer-api) [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
 ---------------------------------------------------------------
 
-The project 'Mesto' is a kind of profile in a social network, the main function of which is to share photos.
+"Movies explorer" is a movie library that allows you to find different movies and save them to your favorites. 
 
-> Frontend: HTML, CSS, JavaScript, React, Rest Api, Webpack, Async requests, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
+> Frontend: React, JSX, HTML5, CSS3, Rest Api, Webpack, Async requests, Context provider, Protected routes, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout 
 
 > Backend: Node.js, Express, MongoDB
 
 
 
 
-[Movies](https://github.com/DanyaLiupinin/movies-explorer-frontend) [explorer](https://github.com/DanyaLiupinin/movies-explorer-api) (Yandex Diploma) [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
+[Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full)
 ---------------------------------------------------------------
 
-"Movies explorer" is a movie library that allows you to find different movies and save them to your favorites. 
+The project 'Mesto' is a kind of profile in a social network, the main function of which is to share photos.
 
-> Frontend: HTML5, CSS3, React, Bem, JSX, Media Queries, Flexbox, Grid, addaptive layout, transitions, animations, CRP, React Router, Hooks, Protected routes.
+> Frontend: HTML, CSS, JavaScript, React, Rest Api, Webpack, Async requests, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
 
 > Backend: Node.js, Express, MongoDB
 
