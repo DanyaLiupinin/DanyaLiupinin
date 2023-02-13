@@ -1,17 +1,12 @@
 ![gif](./images/header.gif)
 
-<h1 display='block'>👀 I'm Danya, 20 y.o. web-developer</h1>
+<h1 display='block'>👀 I'm Danya, 21 y.o. web-developer</h1>
 
 
 - Native city: Moscow, Russia
 
-- Actual location: Barcelona, Spain
-
-## 🤓 Now studying in [```Yandex Practikum```](https://practicum.yandex.ru/)
-
-- studied for 11.5 months
-
-- 2 weeks left
+- Actual location: Yerevan, Armenia
+- 
 
 ## 📚 Languages and Tools 
 
@@ -28,10 +23,9 @@
 
 
 ## 👨‍🎓 Now learning 
-### Creating a final educational project
-### Also learning:
-- css preprocessors
-- typescript
+- TypeScript
+- Redux
+- Preprocessors
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
@@ -49,7 +43,7 @@ telegram: r_b_n_m
 
 
 
-[Movies](https://github.com/DanyaLiupinin/movies-explorer-frontend) [explorer](https://github.com/DanyaLiupinin/movies-explorer-api) [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api)
+[Movies](https://github.com/DanyaLiupinin/movies-explorer-frontend) [explorer](https://github.com/DanyaLiupinin/movies-explorer-api) [Frontend](https://github.com/DanyaLiupinin/movies-explorer-frontend) | [Backend](https://github.com/DanyaLiupinin/movies-explorer-api) (Diploma | React, Node.js, Express, Mongo)
 ---------------------------------------------------------------
 
 "Movies explorer" is a movie library that allows you to find different movies and save them to your favorites. 
@@ -61,7 +55,7 @@ telegram: r_b_n_m
 
 
 
-[Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full)
+[Mesto](https://github.com/DanyaLiupinin/react-mesto-api-full) (educational project React, Node.js, Express, Mongo)
 ---------------------------------------------------------------
 
 The project 'Mesto' is a kind of profile in a social network, the main function of which is to share photos.
@@ -69,6 +63,16 @@ The project 'Mesto' is a kind of profile in a social network, the main function 
 > Frontend: HTML, CSS, JavaScript, React, Rest Api, Webpack, Async requests, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
 
 > Backend: Node.js, Express, MongoDB
+
+
+
+
+[Shopping List](https://github.com/DanyaLiupinin/shoppinglist-redux) (pet project React, redux)
+------------------------------------
+
+'Shopping list' is an application that helps you manage your purchases. It is a pet-project i created to learn Redux and TypeScript
+
+> Frontend: React, Redux, JSX, HTML5, CSS3, Context provider, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
 
 
 
@@ -97,13 +101,6 @@ A desktop version of the landing page to attract reviewers and mentors to Yandex
 
 > Frontend: HTML, CSS, Adaptive layout, Bem methodology (nested), Flex, Grid layout, cross-browser layout, animations
 
-
-[Portfilio layout](https://github.com/DanyaLiupinin/portfolio-layout)
-----------------------
-
-Simple landing portfolio for a designer with a presentation of professional skills.
-
-> Frontend: HTML, CSS, BEM
 
 
 <!--
