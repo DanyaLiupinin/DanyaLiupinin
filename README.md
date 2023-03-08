@@ -6,7 +6,7 @@
 - Native city: Moscow, Russia
 
 - Actual location: Yerevan, Armenia
-- 
+
 
 ## 📚 Languages and Tools 
 
@@ -39,7 +39,7 @@ telegram: r_b_n_m
 
 
 
-## 👣 Portfolio navigation (in progress / раздел дополняется)
+## 👣 Portfolio navigation
 
 
 
@@ -63,6 +63,16 @@ The project 'Mesto' is a kind of profile in a social network, the main function 
 > Frontend: HTML, CSS, JavaScript, React, Rest Api, Webpack, Async requests, React hooks, React routes, Functional components, Bem methodology, Adaptive layout, Flex and Grid layout, Cross-browser layout
 
 > Backend: Node.js, Express, MongoDB
+
+
+
+
+[Lonely chat](https://github.com/DanyaLiupinin/chat)
+------------------------------
+
+'Lonely chat' is a service for people who have no one to talk to. Thanks to the 'chat', a person can communicate with himself using different browser tabs. The application is built on local storage and session storage technologies.
+
+> Frontend: React, JSX, HTML5, CSS3, Session storage, Local storage, Async requests, Protected routes, React hooks, Functional components, Bem methodology, Adaptive layout, custom scroll bars
 
 
 
