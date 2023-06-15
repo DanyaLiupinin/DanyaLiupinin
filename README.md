@@ -37,7 +37,7 @@ email: mr.kovan_2002@mail.ru
 
 telegram: r_b_n_m
 
-
+<!--
 
 ## 👣 Portfolio navigation
 
@@ -111,7 +111,7 @@ A desktop version of the landing page to attract reviewers and mentors to Yandex
 
 > Frontend: HTML, CSS, Adaptive layout, Bem methodology (nested), Flex, Grid layout, cross-browser layout, animations
 
-
+-->
 
 <!--
 **DanyaLiupinin/DanyaLiupinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
