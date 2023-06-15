@@ -4,6 +4,8 @@
 
 - [My website](https://www.dkovandeveloper.online/)
 
+- Status: looking for a job
+
 - Actual location: Barcelona, Spain
 
 
@@ -11,14 +13,28 @@
 
 ![JS](https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-4682B4?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-1E90FF?style=for-the-badge&logo=redux)
+![typescript](https://img.shields.io/badge/-Typescript-20B2AA?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-6495ED?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-4682B4?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-6495ED?style=for-the-badge&logo=sass)
+![Less](https://img.shields.io/badge/-LESS-4682B4?style=for-the-badge&logo=less)
+![Bulma](https://img.shields.io/badge/-Bulma-87CEFA?style=for-the-badge&logo=bulma)
+![Postman](https://img.shields.io/badge/-Postman-66CDAA?style=for-the-badge&logo=postman)
+![ThreeJS](https://img.shields.io/badge/-three-4682B4?style=for-the-badge&logo=threedotjs)
 ![Nodejs](https://img.shields.io/badge/-Node.js-7B68EE?style=for-the-badge&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-00CED1?style=for-the-badge&logo=Webpack)
-![typescript](https://img.shields.io/badge/-Typescript-20B2AA?style=for-the-badge&logo=typescript)
-![express](https://img.shields.io/badge/-Esxpress.js-008080?style=for-the-badge&logo=express.js)
+![Rest API](https://img.shields.io/badge/-RestAPI-00CED1?style=for-the-badge&logo=fastapi)
+![Graphql](https://img.shields.io/badge/-Graphql-66CDAA?style=for-the-badge&logo=graphql)
+![Npm](https://img.shields.io/badge/-NPM-00CED1?style=for-the-badge&logo=npm)
+![Eslint](https://img.shields.io/badge/-Eslint-00CED1?style=for-the-badge&logo=eslint)
+![express](https://img.shields.io/badge/-Esxpress.js-008080?style=for-the-badge&logo=express)
 ![Mongodb](https://img.shields.io/badge/-mongo-66CDAA?style=for-the-badge&logo=mongodb)
 ![Figma](https://img.shields.io/badge/-Figma-66CDAA?style=for-the-badge&logo=figma)
+![Github](https://img.shields.io/badge/-Github-66CDAA?style=for-the-badge&logo=github)
+![Filezilla](https://img.shields.io/badge/-FileZilla-66CDAA?style=for-the-badge&logo=filezilla)
+
+![kfc](https://img.shields.io/badge/-KFC-FF0000?style=for-the-badge&logo=kfc)
 
 
 ## 👨‍🎓 Now learning 
@@ -32,7 +48,7 @@
 
 ## 💬 Contact me
 
-telegram: r_b_n_m
+telegram: [r_b_n_m](https://t.me/r_b_n_m)
 
 email: mr.kovan_2002@mail.ru
 
