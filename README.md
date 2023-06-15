@@ -2,10 +2,7 @@
 
 <h1 display='block'>👀 I'm Danya, 21 y.o. web-developer</h1>
 
-
-- Native city: Moscow, Russia
-
-- Actual location: Yerevan, Armenia
+- Actual location: Barcelona, Spain
 
 
 ## 📚 Languages and Tools 
@@ -23,9 +20,9 @@
 
 
 ## 👨‍🎓 Now learning 
-- TypeScript
-- Redux
-- Preprocessors
+- MobX
+- GraphQL
+- React Native
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
@@ -33,9 +30,9 @@
 
 ## 💬 Contact me
 
-email: mr.kovan_2002@mail.ru
-
 telegram: r_b_n_m
+
+email: mr.kovan_2002@mail.ru
 
 <!--
 
