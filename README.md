@@ -37,10 +37,8 @@
 ![kfc](https://img.shields.io/badge/-KFC-FF0000?style=for-the-badge&logo=kfc)
 
 
-## 👨‍🎓 Now learning 
-- MobX
-- GraphQL
-- React Native
+## 👨‍🎓 Now working: 
+Now i'm working on a service for bartenders and party organizers, which gives access to the library of cocktail recipes with a flexible search system and the ability to create your own recipes. Project is developed in a team of 30 people. The MVP is planned to be posted in September 2023
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
