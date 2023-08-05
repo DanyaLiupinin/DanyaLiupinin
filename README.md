@@ -38,7 +38,7 @@
 
 
 ## 👨‍🎓 Now working: 
-Now i'm working on a service for bartenders and party organizers, which gives access to the library of cocktail recipes with a flexible search system and the ability to create your own recipes. Project is developed in a team of 30 people. The MVP is planned to be posted in September 2023
+Now i'm working on **Partyshkaer** - service for bartenders and party organizers, which gives access to the library of cocktail recipes with a flexible search system and the ability to create your own recipes. Project is developed in a team of 30 people. The MVP is planned to be posted in September 2023
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
