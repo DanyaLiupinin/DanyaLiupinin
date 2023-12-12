@@ -48,7 +48,7 @@ Ginoice. Crypto-blockchain company
 
 telegram: [r_b_n_m](https://t.me/r_b_n_m)
 
-email: mr.kovan_2002@mail.ru
+email: dankooj@gmail.com
 
 <!--
 
