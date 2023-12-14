@@ -4,8 +4,6 @@
 
 - [My website](https://www.dkovandeveloper.online/)
 
-- Status: looking for a job
-
 - Actual location: Barcelona, Spain
 
 
