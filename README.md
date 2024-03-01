@@ -1,6 +1,6 @@
 ![gif](./images/header.gif)
 
-<h1 display='block'>👀 I'm Danya, 21 y.o. web-developer</h1>
+<h1 display='block'>👀 I'm Danya, 22 y.o. web-developer</h1>
 
 - [My website](https://www.dkovandeveloper.online/)
 
