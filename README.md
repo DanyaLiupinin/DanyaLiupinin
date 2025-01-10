@@ -36,7 +36,7 @@
 
 
 ## 👨‍🎓 Now working: 
-Ginoice. Crypto-blockchain company
+NDA. Luxury real estate
 
 ## 🌐 Social media
 - [Linkedin](https://www.linkedin.com/in/danyakovan/)
